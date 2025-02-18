@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ProjectOpenWorldF.sln"
+    "dotnet.defaultSolution": "ProjectF.sln"
 }
